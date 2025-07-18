@@ -1,0 +1,11 @@
+{
+    "name": "MiraUSD",
+    "symbol": "MrUSDT",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "MiraUSD is a decentralized community-driven token created with hope and resistance.",
+    "website": "https://mirausdt.github.io",
+    "explorer": "https://bscscan.com/token/0xED347F9431C26fA316656D3d5e6d914F5151661c",
+    "status": "active",
+    "id": "0xED347F9431C26fA316656D3d5e6d914F5151661c"
+}
